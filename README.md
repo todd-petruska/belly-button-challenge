@@ -16,4 +16,5 @@ The code creates a dashboard by reading in the sample.json from the URL and crea
 )
  ![image](https://github.com/todd-petruska/belly-button-challenge/assets/128247739/1e808eb0-a2e1-4730-aa4b-610007a298be)
  
+
 Resources:  Resources and coded used for this project include, Instructor provided starter code, Office hours, Study Group, course materials, geeksforgeeks, D3js.org documentation, YouTube and Stack Overflow. 
